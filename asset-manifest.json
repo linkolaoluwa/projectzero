@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/projectzero/static/css/main.721a4999.css",
+    "main.js": "/projectzero/static/js/main.da5f3b0b.js",
+    "static/js/787.3fe28ea2.chunk.js": "/projectzero/static/js/787.3fe28ea2.chunk.js",
+    "index.html": "/projectzero/index.html",
+    "main.721a4999.css.map": "/projectzero/static/css/main.721a4999.css.map",
+    "main.da5f3b0b.js.map": "/projectzero/static/js/main.da5f3b0b.js.map",
+    "787.3fe28ea2.chunk.js.map": "/projectzero/static/js/787.3fe28ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.721a4999.css",
+    "static/js/main.da5f3b0b.js"
+  ]
+}
